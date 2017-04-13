@@ -4,6 +4,10 @@ Stock inventory app built using mySQL
 ## Synopsis
 Amazon-like store front where users can view items, prices, quantities to make purchases.
 
+## NPM Packages 
+- inquirer
+- mysql
+
 ## Running App
 - Running this app will first display all items available for purchase
 - The app then prompts users with two questions: 1) ID of product they'd like to purchase and 2) quantity they'd like to purchase
