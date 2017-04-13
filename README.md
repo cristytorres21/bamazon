@@ -6,7 +6,7 @@ Amazon-like store front where users can view items, prices, quantities to make p
 
 ## Running App
 - Running this app will first display all items available for purchase
-- The app then prompts users with two questions: 1) ID of product they'd like to purchase amd 2) quantity they'd like to purchase
+- The app then prompts users with two questions: 1) ID of product they'd like to purchase and 2) quantity they'd like to purchase
 - Once order has been placed, app checks if there's enough units to meet customer's request. If there's not enough units, the app will let the customer know there's not enough units, and then prevent the order from going through. However, if the store does have enough of the product, the application will fulfill the customer's order.
 
 ## Video Demo Link
